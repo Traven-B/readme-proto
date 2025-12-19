@@ -1,6 +1,6 @@
 <img src="docs/images/library-card-alpha.png"
      alt="Library card banner"
-     style="width:55%;">
+     style="width:55%; max-width: 55%">
 
 # mymodern
 
