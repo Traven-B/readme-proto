@@ -1,6 +1,7 @@
 <img src="docs/images/library-card-alpha.png"
      alt="Library card banner"
      style="width: 366px;">
+     <!-- otherwise width: 45:%  , github filters out most css attributes its seems -->
 
 # mymodern
 
