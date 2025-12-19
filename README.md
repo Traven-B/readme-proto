@@ -1,6 +1,34 @@
-<img src="docs/images/library-card-aplha.png"
+<img src="docs/images/library-card-alpha.png"
      alt="Library card banner"
-     style="width:55%; margin-left: 16%;">
+     style="width:55%; margin-left: 11%;">
+
+
+
+<div style="display:flex; justify-content:flex-start; gap:26%;">
+  <img src="docs/images/library-card-alpha.png"
+       alt="Library card banner"
+       style="width:55%; max-width:700px; height:auto;">
+</div>
+
+
+<table align="center" style="width:100%;">
+  <tr>
+    <td style="width:6%;"></td>
+    <td>
+      <img src="docs/images/library-card-alpha.png"
+           alt="Library card banner"
+           style="width:55%; height:auto;">
+    </td>
+  </tr>
+</table>
+
+
+
+<div style="padding-left:6%;">
+<img src="docs/images/library-card-alpha.png"
+alt="Library card banner"
+style="width:55%; height:auto;">
+</div>
 
 # mymodern
 
