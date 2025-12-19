@@ -1,6 +1,6 @@
 <img src="docs/images/library-card-aplha.png"
      alt="Library card banner"
-     style="width:55%; margin-left: 6%;">
+     style="width:55%; margin-left: 16%;">
 
 # mymodern
 
